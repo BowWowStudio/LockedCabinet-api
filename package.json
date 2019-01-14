@@ -1,0 +1,19 @@
+{
+  "name": "lockedcabinet-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@types/debug": "0.0.31",
+    "@types/express": "^4.16.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~4.1.1",
+    "express": "~4.16.4",
+    "morgan": "~1.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  }
+}
